@@ -1,1 +1,4 @@
-amzn.mws
+
+
+u s e r = Kevin
+p a s s = wr123dcke
